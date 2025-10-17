@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+generated_*.tf
+terragrunt-state.tf
+terraform.tfstate
+terraform.tfstate.backup
+Q2/tfplan
+Q2/index.html
